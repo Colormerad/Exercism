@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F1825E9B-B121-42BA-8836-A81AC263C534}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IsogramTests.cs">
+    <Files>
+      <File FileName="IsogramTests.cs" Line="64" Column="43" />
+      <File FileName="Isogram.cs" Line="15" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Isogram" expanded="True">
+            <Node name="Isogram" expanded="True">
+              <Node name="IsogramTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Isogram" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Isogram PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

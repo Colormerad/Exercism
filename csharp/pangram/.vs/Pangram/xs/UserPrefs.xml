@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{85AB7132-5F62-421A-BA01-52293C0448F4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pangram.cs">
+    <Files>
+      <File FileName="PangramTests.cs" Line="63" Column="6" />
+      <File FileName="Pangram.cs" Line="14" Column="1" />
+      <File FileName="README.md" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pangram" expanded="True">
+            <Node name="Pangram" expanded="True">
+              <Node name="Pangram.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Pangram" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Pangram PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
