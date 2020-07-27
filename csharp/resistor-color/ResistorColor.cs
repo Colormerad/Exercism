@@ -2,24 +2,14 @@
 
 public static class ResistorColor
 {
+    readonly static string[] colors = { "black", "brown", "red", "orange", "yellow", "green", "blue", "violet", "grey", "white" };
+
     public static int ColorCode(string color)
     {
-        int colorVal = 0;
-        string[] colors = Colors();
-        for (int i = 0; i < colors.Length; i++)
-        {
-            if (colors[i] == color)
-            {
-                colorVal = i;
-                break;
-            }
-        }
-        return colorVal;
+        return Array.IndexOf(colors, color);
     }
-
     public static string[] Colors()
     {
-        string[] colors = { "black", "brown", "red", "orange", "yellow", "green", "blue", "violet", "grey", "white" };
         return colors;
     }
 }
